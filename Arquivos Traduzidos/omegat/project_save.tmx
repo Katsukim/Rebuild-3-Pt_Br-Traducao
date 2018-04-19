@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's overrun by the undead.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="my_ni" changedate="20180419T231559Z" creationid="my_ni" creationdate="20180419T231559Z">
+        <seg>Está tomado por mortos vivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No power, no running water, no food except what we scavenge or grow ourselves.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="my_ni" changedate="20180419T231625Z" creationid="my_ni" creationdate="20180419T231625Z">
+        <seg>Sem energia, sem água corrente, sem comida exceto o que achamos ou cultivamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[Name's] story</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="my_ni" changedate="20180419T192000Z" creationid="my_ni" creationdate="20180419T192000Z">
