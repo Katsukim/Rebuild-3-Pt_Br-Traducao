@@ -1,0 +1,6 @@
+CAIXA DE TEXTO cabem apenas 168 caracteres, se passar disso há necessidade de
+outra caixa de texto, usando a mesma programação da anterior.
+
+CAPTION permitem apenas 20 caracteres.
+
+NÂO MUDAR NADA que esteja escrito (picture ou icon).

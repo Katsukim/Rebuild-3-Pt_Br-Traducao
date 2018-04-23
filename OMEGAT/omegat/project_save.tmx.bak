@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="Omegat" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;font color\="#003EBA"&gt;Leaders&lt;/font&gt; are better at recruiting missions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182538Z" creationid="Kim" creationdate="20180423T182538Z">
+        <seg>&lt;font color="#003EBA"&gt;Líderes&lt;/font&gt; são melhores em missões de recrutamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;font color\="#0DBA00"&gt;Builders&lt;/font&gt; will get the job done faster.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182641Z" creationid="Kim" creationdate="20180423T182641Z">
+        <seg>&lt;font color="#0DBA00"&gt;Construtores&lt;/font&gt; vão fazer o trabalho mais rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;font color\="#AE1CC4"&gt;Engineers&lt;/font&gt; are faster at it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183310Z" creationid="Kim" creationdate="20180423T183310Z">
+        <seg>&lt;font color\="#AE1CC4"&gt;Engenheiros&lt;/font&gt; são mais rápidos nisso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;font color\="#E5B000"&gt;Scavengers&lt;/font&gt; find more stuff, faster.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182757Z" creationid="Kim" creationdate="20180423T182757Z">
+        <seg>&lt;font color="#E5B000"&gt;Exploradores&lt;/font&gt; acham mais coisa e mais rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But there are also zombies lurking out there, so watch out!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182153Z" creationid="Kim" creationdate="20180423T182153Z">
+        <seg>Mas também pode conter zumbis perambulando por ai, então cuidado! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do it regularly so they can't grow into a massed horde and attack us.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182941Z" creationid="Kim" creationdate="20180423T182941Z">
+        <seg>Faça isso regularmente para que eles não cresçam e virem uma horda e nos ataque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag a &lt;font color\="#EC1C24"&gt;soldier&lt;/font&gt; out of the fort and pick the gun icon to kill zombies.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182903Z" creationid="Kim" creationdate="20180423T182903Z">
+        <seg>Arraste um &lt;font color="#EC1C24"&gt;soldado&lt;/font&gt; para fora do forte e selecione o icone de arma para matar zumbis. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag a survivor onto a building to send them on a mission.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182216Z" creationid="Kim" creationdate="20180423T182216Z">
+        <seg>Arraste um sobrevivente para uma construção para envia lo em uma missão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag this survivor to another building and assign them to something useful.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T181254Z" creationid="Kim" creationdate="20180423T181254Z">
+        <seg>Arraste esse sobrevivente para outra construção para fazer algo útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Farms are a good bet since there's only so much food to scavenge out there.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183428Z" creationid="Kim" creationdate="20180423T183428Z">
+        <seg>Fazendas são uma boa escolha já que não há muita comida para ser achada lá fora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For best results, assign &lt;font color\="#AE1CC4"&gt;engineers&lt;/font&gt; to research in a laboratory.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183125Z" creationid="Kim" creationdate="20180423T183125Z">
+        <seg>Para melhores resultados, use &lt;font color="#AE1CC4"&gt;engenheiros&lt;/font&gt; para pesquisas no laboratório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's overrun by the undead.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T173618Z" creationid="Kim" creationdate="20180423T173618Z">
+        <seg>Está tudo tomado por mortos vivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No power, no running water, no food except what we scavenge or grow ourselves.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T173629Z" creationid="Kim" creationdate="20180423T173629Z">
+        <seg>Sem energia, sem água corrente, sem comida exceto o que achamos ou cultivamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Places like malls may have valuable equipment.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182808Z" creationid="Kim" creationdate="20180423T182808Z">
+        <seg>Lugares como shoppings podem ter melhores equipamentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scouting also reveals how many zombies are milling around there, and makes later missions safer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182414Z" creationid="Kim" creationdate="20180423T182414Z">
+        <seg>Explorar também revela quantos zumbis estão "zanzando" por lá, e isso faz com que as missões fiquem mais faceis depois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stack extra survivors on to finish missions faster and with less danger.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183624Z" creationid="Kim" creationdate="20180423T183624Z">
+        <seg>Empilhe sobreviventes parar fazer as missões mais rápido e com menos perigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We should have a &lt;font color\="#0DBA00"&gt;builder&lt;/font&gt; replace these with something better.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183411Z" creationid="Kim" creationdate="20180423T183411Z">
+        <seg>Nós podemos colocar um &lt;font color="#0DBA00"&gt;construtor&lt;/font&gt; para substituí-la por algo melhor. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We should recruit them, assuming we have enough houses and food for them.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182517Z" creationid="Kim" creationdate="20180423T182517Z">
+        <seg>Nós devemos recrutá los, desde que tenha casas o suficiente e comida para eles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We're safe in our 5 reclaimed buildings, but the darker ones outside are teeming with zed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T174604Z" creationid="Kim" creationdate="20180423T174604Z">
+        <seg>Estamos a salvo nas 5 construções que foram retomadas, mas as escuras do lado de fora estão rodeadas de Zed. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Tap] a building for more info.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T174631Z" creationid="Kim" creationdate="20180423T174631Z">
+        <seg>[Clique] em uma construção para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_fortBuildings_caption = Reclaimed Buildings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T181331Z" creationid="Kim" creationdate="20180423T181331Z">
+        <seg>tutorial_fortBuildings_caption = Construções Retomadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_fortBuildings_text = Once we've reclaimed a building into our fort, we can use it for housing, farming, defense, or other things depending on the building type.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182033Z" creationid="Kim" creationdate="20180423T182033Z">
+        <seg>tutorial_fortBuildings_text = Uma vez que tenha retomado uma contrução para seu forte, podemos usá la como abrigo, fazenda, defesa, ou outras coisas dependendo do tipo de contrução. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_guards_caption = Dragging a survivor</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T181103Z" creationid="Kim" creationdate="20180423T181103Z">
+        <seg>tutorial_guards_caption = Arraste pessoas </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_guards_text = Someone's defending this building, but there are no massed zombies nearby to defend from!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T181219Z" creationid="Kim" creationdate="20180423T181219Z">
+        <seg>tutorial_guards_text = Alguém está defendendo essa contrução, mas não há zumbis aglomerados para serem defendidos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_killingStarted_caption = Killing Zombies</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183004Z" creationid="Kim" creationdate="20180423T183004Z">
+        <seg>tutorial_killingStarted_caption = Matando Zombis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_killingStarted_text = Clearing out stray zombies stops them from becoming massed hordes, but until you reclaim the building, new zombies will just keep shambling back into it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183036Z" creationid="Kim" creationdate="20180423T183036Z">
+        <seg>tutorial_killingStarted_text = Livrar-se de zumbis que estão vagando impede que eles se tornem uma horda, mas até que você tenha retomado uma construção, novos zumbis irão cambalear de volta para ela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_killing_caption = Killing Zombies</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182827Z" creationid="Kim" creationdate="20180423T182827Z">
+        <seg>tutorial_killing_caption = Matando Zombis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_killing_text = Zed are everywhere.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182838Z" creationid="Kim" creationdate="20180423T182838Z">
+        <seg>tutorial_killing_text = Zed estão em todo lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_nonfortBuildings_caption = Outside Buildings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182101Z" creationid="Kim" creationdate="20180423T182101Z">
+        <seg>tutorial_nonfortBuildings_caption = Contruções de fora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_nonfortBuildings_text = Buildings outside the fort might contain food, supplies, and survivors.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182139Z" creationid="Kim" creationdate="20180423T182139Z">
+        <seg>tutorial_nonfortBuildings_text = Construções fora do forte pode conter comida, suprimentos e sobreviventes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_radial_caption = Mission types</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183532Z" creationid="Kim" creationdate="20180423T183532Z">
+        <seg>tutorial_radial_caption = Tipos de missões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_radial_text = Drag survivors onto buildings to assign them to missions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183551Z" creationid="Kim" creationdate="20180423T183551Z">
+        <seg>tutorial_radial_text = Arraste sobreviventes até construções para colocá los em missões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_reclaiming_caption = Reclaiming buildings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182608Z" creationid="Kim" creationdate="20180423T182608Z">
+        <seg>tutorial_reclaiming_caption = Retomar construções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_reclaiming_text = If a building is beside our fort and zombie-free, it's safe to reclaim and extend our fort walls around it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182625Z" creationid="Kim" creationdate="20180423T182625Z">
+        <seg>tutorial_reclaiming_text = Se uma construção do lado do forte não tem mais zumbis, é seguro retomá-la e extender nossos muros ao redor dela. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_recruit_caption = Recruiting survivors</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182442Z" creationid="Kim" creationdate="20180423T182442Z">
+        <seg>tutorial_recruit_caption = Recrutamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_recruit_text = Other survivors!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182456Z" creationid="Kim" creationdate="20180423T182456Z">
+        <seg>tutorial_recruit_text = Outros sobreviventes!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_scavenging_caption = Scavenging for food</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182731Z" creationid="Kim" creationdate="20180423T182731Z">
+        <seg>tutorial_scavenging_caption = Procurando Comida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_scavenging_text = You'll have the best chance of finding food in houses or grocery stores.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182738Z" creationid="Kim" creationdate="20180423T182738Z">
+        <seg>tutorial_scavenging_text = Você terá melhor chance de achar comida em casas e mercados. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_scouting_caption = Scouting</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182246Z" creationid="Kim" creationdate="20180423T182246Z">
+        <seg>tutorial_scouting_caption = Explorando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_scouting_text = We won't know what's in a building until we send someone to scout it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T182311Z" creationid="Kim" creationdate="20180423T182311Z">
+        <seg>tutorial_scouting_text = Não sabemos o que tem em uma contrução até mandarmos alguém para explorá-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_stack_caption = Stacked Survivors</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183825Z" creationid="Kim" creationdate="20180423T183825Z">
+        <seg>tutorial_stack_caption = Empilhar Pessoas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_tech_caption = Research</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183044Z" creationid="Kim" creationdate="20180423T183044Z">
+        <seg>tutorial_tech_caption = Pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_tech_text = Research projects can give many different fort-wide bonuses.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183116Z" creationid="Kim" creationdate="20180423T183116Z">
+        <seg>tutorial_tech_text = Pesquisar projetos podem oferecer diferentes bônus para o forte. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_useless_caption = Useless Building</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183334Z" creationid="Kim" creationdate="20180423T183334Z">
+        <seg>tutorial_useless_caption = Contruções Inuteis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_useless_text = Some buildings have no use to us.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183349Z" creationid="Kim" creationdate="20180423T183349Z">
+        <seg>tutorial_useless_text = Algumas construções não te uso para nós. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_welcome2_text = Drag the map to look around and scroll or pinch to zoom.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T174546Z" creationid="Kim" creationdate="20180423T173703Z">
+        <seg>tutorial_welcome2_text = Araste o mapa para olhar ao redor e rode a bolinha para dar zoom. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_welcome_text = I'm not going to lie to you [Name]... this town's seen better days.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T173442Z" creationid="Kim" creationdate="20180423T173442Z">
+        <seg>tutorial_welcome_text = Eu não vou mentir para você  [Name]... essa cidade ja viu dias melhores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_workshop_caption = Crafting</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183148Z" creationid="Kim" creationdate="20180423T183148Z">
+        <seg>tutorial_workshop_caption = Construindo items</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tutorial_workshop_text = Assign survivors to craft items in workshops, from ammunition to anti-zombie traps once they are researched in a lab.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kim" changedate="20180423T183213Z" creationid="Kim" creationdate="20180423T183213Z">
+        <seg>tutorial_workshop_text =Coloque um sobrevivente para construir items nas oficinas, desde munição até armadilhas para zumbis quando forem pesquisados no laboratório. </seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
