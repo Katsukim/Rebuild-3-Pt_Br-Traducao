@@ -1,0 +1,5 @@
+mod_type = language
+mod_name = Traducao PT_BR
+mod_description = Traducao do jogo para Português Brasileiro
+mod_language_name = Portugues
+mod_locale_id = BR
